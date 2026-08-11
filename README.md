@@ -31,10 +31,6 @@ Git • GitHub • VS Code
 - 🌱 Cotton Leaf Disease Detection
 - 🏙️ Smart City Project
 
-## 📊 GitHub Stats
-
-![Ranjitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjitha821&show_icons=true&theme=radical)
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ranjitha-hn821/

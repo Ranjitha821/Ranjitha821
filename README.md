@@ -37,5 +37,5 @@ Git • GitHub • VS Code
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/ranjitha-hn821/
 - GitHub: https://github.com/Ranjitha821
